@@ -1,0 +1,32 @@
+  git status
+    git add tes
+    git add tes
+    git add testing.py
+   git status
+   git rm --cached testing.py
+ git status
+   git add.
+   git status
+   git add testing.py
+   git status
+   git commit  -m "added tesin fils"
+   git commit -m "added tesing file "
+ git status
+   file.exclud
+   git status
+    git commit -m "added testing files"
+   git commit -m added testing files
+    git ststus
+   git status
+     git commit -m "added testing files"...
+   git config --global user.name "Sagar Khawale"...
+   git commit -m "added testing files"
+   git status
+   rm te
+   rm .\testing.py
+   clear
+   git status
+ git restore testing.py
+rm .\testing.py
+c
+git restore testing.py 
